@@ -1,4 +1,3 @@
-# Diplom
 
 ## PyCharm
 Ссылка для скачивания PyCharm:
