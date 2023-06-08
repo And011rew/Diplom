@@ -16,7 +16,7 @@ https://www.python.org/downloads/release/python-378/
 
 ![изображение](https://github.com/And011rew/Diplom/assets/75539533/4817c018-1aa9-4be1-b50a-447db7661e8b)
 
-## Mодели распознавания
+## Mодель распознавания
 Ссылка на скачивание модели распознавания:
 https://github.com/ayoolaolafenwa/PixelLib/releases
 
